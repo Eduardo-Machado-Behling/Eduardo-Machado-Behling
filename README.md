@@ -1,8 +1,6 @@
 <h3 align="center"> Olá 👋, eu sou o Eduardo Machado </h3>
 
-<p align="left">
-    &nbsp;
-    &nbsp;
+<p align="center">
     <a href='https://www.linkedin.com/in/eduardo-machado-behling/'>
         <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'/>
     </a>
